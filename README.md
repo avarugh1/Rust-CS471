@@ -23,4 +23,5 @@ https://www.atlassian.com/git/tutorials/syncing
 ## Presentation Structure:
 1. Google Docs or PPT presentation
 2. Small example project to demonstrate in class comparing Rust and C/C++ side by side
+  - http://cs.binghamton.edu/~kchiu/cs580f/prog/1/
 3. Displaying big repo from Github of an actual codebase which utilizes Rust - explaining its benefits 
