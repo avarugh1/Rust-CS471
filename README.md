@@ -15,6 +15,7 @@ https://www.atlassian.com/git/tutorials/syncing
 1. [Rust and C/C++](http://willcrichton.net/notes/rust-memory-safety/) - Fixing common issues in C/C++ with Rust
 2. [Awesome Curated Guide](https://github.com/rust-unofficial/awesome-rust) - Comprehensive list of resources done using Rust
 3. [Rust Textbook](https://github.com/rust-lang/book)
+4. https://stackoverflow.com/questions/29628650/how-does-rust-achieve-compile-time-only-pointer-safety
 
 ## To-Do List:
 1. 
