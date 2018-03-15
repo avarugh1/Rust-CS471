@@ -1,0 +1,54 @@
+Evaluator's Name:
+DATE: Wed, March 21, 2018  NOON
+
+Team Members: Elliot J Catalano  Jiwoo Kim  Anson Varughese
+
+Title: RUST
+Brief description:
+
+Rust is a systems programming language which aims to be the next iteration of C++. Supported by the Mozilla Research Division, Rust has syntax very similar to C++ but with a different memory safety system to help prevent race conditions and reduce bugs in concurrent code. Memory in safe Rust is managed through "ownership", which can be checked at compile time, to prevent dangling pointers, double frees, and null pointers. Rust's built-in move semantics and borrow checker prevent unnecessary overhead by the user during runtime to produce speed which rivals C/C++. 
+
+Overall, Rust is a new language started in 2010 which has won first place for "most loved programming language" in the Stack Overflow Developer Survey from 2016-2018. Rust is a language that is quickly gaining speed and will stay in the developer community for the foreseeable future. 
+	
+
+
+Information: Do you feel that you acquired a general understanding of the topic 
+presented?" (Yes/No) If yes, what parts of the presentation helped you? Else, 
+why no.
+
+
+
+
+
+
+
+
+
+What, if any, questions do you have that were unanswered by the material presented?"
+
+
+
+
+
+
+
+
+
+
+Style: What did you like about the presentation?
+
+
+
+
+
+
+
+
+
+
+
+How could the presentation be improved ?
+
+
+
+
